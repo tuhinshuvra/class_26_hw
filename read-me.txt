@@ -1,0 +1,22 @@
+black #;
+
+blue #;
+
+ash #;
+
+yellow #;
+
+6
+md-xxl		sm			col
+
+h1 32px		32px		26px
+h3
+p   16		14			14
+
+padding-top- 100px
+padding-bottom- 120px
+
+xl-xxl		md		    sm		col
+			
+		80		    60		50				
+		100		    80		70
